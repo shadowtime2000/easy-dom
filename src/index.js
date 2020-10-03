@@ -1,0 +1,1 @@
+var DOM=document;

@@ -1,0 +1,27 @@
+{
+  "name": "easy-dom",
+  "version": "1.0.0",
+  "description": "Small yet powerful package to make manipulating the DOM 5 characters smaller",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowtime2000/easy-dom.git"
+  },
+  "keywords": [
+    "easy",
+    "dom",
+    "browser"
+  ],
+  "author": "shadowtime2000",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadowtime2000/easy-dom/issues"
+  },
+  "homepage": "https://github.com/shadowtime2000/easy-dom#readme",
+  "devDependencies": {
+    "prettier": "^2.1.2"
+  }
+}
