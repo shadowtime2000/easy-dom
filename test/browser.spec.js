@@ -1,6 +1,6 @@
 const { expect } = require("chai");
 
-window.DOM = document;
+require("../src/index");
 
 describe("#easy-dom", () => {
   it("should exist", () => {
