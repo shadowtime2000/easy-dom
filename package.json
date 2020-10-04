@@ -4,7 +4,7 @@
   "description": "Small yet powerful package to make manipulating the DOM 5 characters smaller",
   "main": "src/index.js",
   "scripts": {
-    "test": "mocha --reporter=spec test/**"
+    "test:jsdom": "mocha --reporter=spec test/jsdom.spec.js"
   },
   "repository": {
     "type": "git",
