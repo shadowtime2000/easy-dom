@@ -3,7 +3,7 @@ const { JSDOM } = require("jsdom");
 const { readFileSync } = require("fs");
 const { join } = require("path");
 
-const { document, window } = new JSDOM("<!DOCTYPE html><html></html>", {
+const { window } = new JSDOM("<!DOCTYPE html><html></html>", {
   runScripts: "dangerously",
 });
 
