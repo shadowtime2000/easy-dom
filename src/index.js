@@ -1,1 +1,1 @@
-var DOM=document;
+window.DOM=document;
