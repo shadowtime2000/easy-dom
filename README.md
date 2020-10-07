@@ -1,6 +1,5 @@
-# easy-dom
-
-Small yet powerful package to make manipulating the DOM 5 characters smaller
+<h1>easy-dom</h1>
+<p align="center">Small yet powerful package to make manipulating the DOM 5 characters smaller</p>
 
 ## Installation
 
